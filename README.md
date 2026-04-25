@@ -12,9 +12,9 @@
 ---
 
 ### 🎓 Academic Profile
-- 🏛️ **Student at Birzeit University** | [cite_start]Bachelor in Computer Engineering (2022 - 2027)[cite: 11, 12].
-- 🏆 **Top Performer:** University GPA: **87.6/100** | [cite_start]Tawjihi: **97%**[cite: 13, 14].
-- [cite_start]🧠 **Focus:** Specialized in **Hardware Verification (DV)** using Verilog/SystemVerilog and industry-standard tools[cite: 7, 8].
+- 🏛️ **Student at Birzeit University** | Bachelor in Computer Engineering (2022 - 2027).
+- 🏆 **Top Performer:** Tawjihi: **97%**.
+- 🧠 **Focus:** Specialized in **Hardware Verification (DV)** using Verilog/SystemVerilog and industry-standard tools.
 
 ---
 
