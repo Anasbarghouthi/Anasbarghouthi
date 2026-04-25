@@ -28,6 +28,14 @@ I am a passionate **Computer Engineering** student focused on bridging the gap b
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anasbarghouthi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasbarghouthi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
