@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anasbarghouthil@gmail.com"><img src="https://img.shields.io/badge/Email-anasbarghouthil%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:anasbarghouthi1@gmail.com"><img src="https://img.shields.io/badge/Email-anasbarghouthil%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/Anasbarghouthi"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"></a>
   <img src="https://img.shields.io/badge/Location-Betunia%2C%20Ramallah-red?style=flat-square&logo=google-maps">
 </p>
@@ -13,7 +13,7 @@
 
 ### 🎓 Academic Profile
 - 🏛️ **Birzeit University:** Bachelor in Computer Engineering (2022 - 2027)
-- 🏆 **Academic Excellence:** University GPA **87.6/100** | Tawjihi **97%**
+- 🏆 **Academic Excellence:Tawjihi **97%**
 - 🧠 **Key Coursework:** Design Verification (DV), Computer Architecture, OS, and Algorithms
 
 ---
