@@ -5,16 +5,16 @@
 
 <p align="center">
   <a href="mailto:anasbarghouthil@gmail.com"><img src="https://img.shields.io/badge/Email-anasbarghouthil%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/anas-abdalhadi-dawoud/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Anasbarghouthi"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"></a>
   <img src="https://img.shields.io/badge/Location-Betunia%2C%20Ramallah-red?style=flat-square&logo=google-maps">
 </p>
 
 ---
 
 ### 🎓 Academic Profile
-- 🏛️ **Student at Birzeit University** | Bachelor in Computer Engineering (2022 - 2027).
-- 🏆 **Top Performer:** Tawjihi: **97%**.
-- 🧠 **Focus:** Specialized in **Hardware Verification (DV)** using Verilog/SystemVerilog and industry-standard tools.
+- 🏛️ **Birzeit University:** Bachelor in Computer Engineering (2022 - 2027)
+- 🏆 **Academic Excellence:** University GPA **87.6/100** | Tawjihi **97%**
+- 🧠 **Key Coursework:** Design Verification (DV), Computer Architecture, OS, and Algorithms
 
 ---
 
@@ -28,22 +28,22 @@
   </tr>
   <tr>
     <td align="vertical-align:top">
-      [cite_start]• SystemVerilog / UVM [cite: 18]<br>
-      • Verilog / Digital Logic [cite: 18, 22]<br>
-      • Synopsys Tools [cite: 20]<br>
-      • Computer Architecture [cite: 15]
+      • SystemVerilog / UVM<br>
+      • Verilog / Digital Design<br>
+      • Synopsys Tools<br>
+      • CPU Architecture
     </td>
     <td align="vertical-align:top">
-      • C / C++ / Java [cite: 17]<br>
-      • Python (Automation) [cite: 21]<br>
-      • Bash Scripting [cite: 21]<br>
-      • SQL (MySQL) [cite: 17, 19]
+      • C / C++ / Java<br>
+      • Python Automation<br>
+      • Bash Scripting<br>
+      • SQL / MySQL
     </td>
     <td align="vertical-align:top">
-      • Linux System Admin [cite: 15, 20]<br>
-      • Data Structures & Algos [cite: 15, 22]<br>
-      • Operating Systems (OS) [cite: 15, 46]<br>
-      • Git / Version Control [cite: 20]
+      • Linux System Admin<br>
+      • Data Structures<br>
+      • Git<br>
+      • Logic Design
     </td>
   </tr>
 </table>
@@ -52,15 +52,17 @@
 
 ### 📑 Featured Engineering Projects
 
-#### 🏗️ Hardware Design
-- [cite_start]**Pipelined CPU (5-Stages):** Designed a complete CPU with fetch, decode, execute, memory, and write-back stages, including hazard detection and forwarding units[cite: 24, 27, 28].
+#### 🏗️ Hardware Design & Verification
+- **Pipelined CPU Design:** 5-stage CPU (Fetch to Write-back) with hazard detection and forwarding units.
+- **Digital Design Projects:** Verification environments using SystemVerilog testbenches.
 
-#### 🌐 Web & Databases
-- [cite_start]**AnyTime Web App:** Full-stack service management system built with Flask and MySQL, focusing on relational database design[cite: 29, 32, 33].
+#### 🌐 Full-Stack & Systems
+- **AnyTime Web App:** Database-driven service management using Flask, MySQL, and Python.
+- **OS Simulations:** Performance analysis of process scheduling and memory management.
 
-#### 🧪 Optimization & Algorithms
-- [cite_start]**Genetic Algorithm & Simulated Annealing:** Solving complex routing problems and optimization under capacity constraints[cite: 35, 37, 38].
-- [cite_start]**Applied Cryptography:** Implementation of Shannon perfect secrecy, Feistel networks, and Vigenere cryptanalysis[cite: 39, 42].
+#### 🧪 Optimization & Security
+- **Routing Optimization:** Genetic Algorithms and Simulated Annealing for capacity constraints.
+- **Applied Cryptography:** PRF/PRP simulations, Feistel networks, and cryptanalysis.
 
 ---
 
