@@ -31,14 +31,7 @@ I am a passionate **Computer Engineering** student focused on bridging the gap b
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anasbarghouthi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasbarghouthi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🚀 Recent Engineering Projects
 
